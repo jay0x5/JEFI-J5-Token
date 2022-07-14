@@ -1,4 +1,4 @@
-# JEFI-J5-Token
+# JEFI-Token(J5)
 
 # JEFI(J5) Token is an ERC-20 Token which lives on Blockchain Network :D
 
